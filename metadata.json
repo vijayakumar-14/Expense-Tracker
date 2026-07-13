@@ -1,0 +1,6 @@
+{
+  "name": "Monthly Expense Tracker",
+  "description": "An elegant, high-density native Android expense tracker featuring a calendar, autocomplete suggestions, Room database for local storage, stats charts, and a navigation drawer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
