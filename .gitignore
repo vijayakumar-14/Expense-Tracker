@@ -1,0 +1,34 @@
+# Built variants
+**/build/
+build/
+app/build/
+
+# Gradle files
+.gradle/
+/local.properties
+/.gradle
+.navigation/
+
+# Log files
+*.log
+
+# Android Studio / IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+.project
+.classpath
+.cproject
+.settings/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Secrets and environment configurations
+.env
+.env.properties
+
+# Roborazzi and screenshots
+**/screenshots/
